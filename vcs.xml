@@ -1,0 +1,24 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="git115.28.100.1:repositories/gitosis-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@115.28.100.1:repositories/gitosis-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="115.28.100.1:repositories/gitosis-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="F:\TEST\testgit2" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_WHITESPACES_IN_LST" value="true" />
+  </component>
+</application>

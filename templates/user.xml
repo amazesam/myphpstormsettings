@@ -1,0 +1,32 @@
+<templateSet group="user">
+  <template name="zsp" value="$this-&gt;Params['$PARM$']$END$" description="$this-&gt;Params['']" toReformat="false" toShortenFQNames="true">
+    <variable name="PARM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="zsd" value="$this-&gt;display();$END$" description="输出模板" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="zsas" value="$this-&gt;assign('$VAR1$', $VAR2$);$END$" description="模板变量" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="zajax" value="$.ajax({&#10;    //async: false&#10;    ,type: &quot;post&quot;&#10;    ,url: url&#10;    ,data:{&#10;        &#10;    }&#10;    ,datatype: &quot;json&quot;&#10;    ,cache: false&#10;    ,success: function (resp) {&#10;        if(resp.status==1){&#10;            //&#10;        }&#10;    }&#10;});" description="jquery下ajax模板" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="reqdef" value="Request $request" description="Request define" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
