@@ -4,6 +4,9 @@
       <webServer id="7ef6553b-2386-445e-851f-05a52130f6d7" name="samax" url="http://sax.cs">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e4b250a7-79ea-499c-b312-6cd6dbed5c6a" name="tp5011" url="http://as.cc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
