@@ -7,6 +7,9 @@
       <webServer id="e4b250a7-79ea-499c-b312-6cd6dbed5c6a" name="tp5011" url="http://as.cc">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2f73bdc4-e184-4c79-9152-3a12034f5c24" name="ChaMail" url="http://chamail.badboluo.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
