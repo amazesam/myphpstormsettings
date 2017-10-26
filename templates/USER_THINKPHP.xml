@@ -1,4 +1,4 @@
-<templateSet group="user">
+<templateSet group="USER_THINKPHP">
   <template name="zsp" value="$this-&gt;Params['$PARM$']$END$" description="$this-&gt;Params['']" toReformat="false" toShortenFQNames="true">
     <variable name="PARM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -25,6 +25,12 @@
     </context>
   </template>
   <template name="reqdef" value="Request $request" description="Request define" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="zsft" value="$this-&gt;fetch($BEGIN$);$END$" description="TP5渲染模板输出" toReformat="true" toShortenFQNames="true">
+    <variable name="BEGIN" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
