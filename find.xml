@@ -13,15 +13,16 @@
       <mask>*.mxml</mask>
       <mask>*.tpl</mask>
       <mask>**</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.h</mask>
       <mask>*.*</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
