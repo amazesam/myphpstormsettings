@@ -80,4 +80,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="ife" value="if($COND$){&#10;    $BEGIN$&#10;}else{&#10;    $END$&#10;}" description="if..elsestatment" toReformat="false" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BEGIN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
