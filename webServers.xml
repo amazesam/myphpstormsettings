@@ -7,9 +7,6 @@
       <webServer id="134e1e27-85d8-4d38-a230-623335fc108b" name="ndc.cs" url="http://ndc.cs">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="9ac6995e-424d-4a89-b441-d9388304c1e7" name="pdd.badboluo.com" url="http://pdd.badboluo.com">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
