@@ -22,8 +22,8 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
