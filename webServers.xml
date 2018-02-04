@@ -7,6 +7,9 @@
       <webServer id="134e1e27-85d8-4d38-a230-623335fc108b" name="ndc.cs" url="http://ndc.cs">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="eb49ec6d-b55c-4d68-8877-67f0c9b8b7a5" name="aa.cs" url="http://aa.cs">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
