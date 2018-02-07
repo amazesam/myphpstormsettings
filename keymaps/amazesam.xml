@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="amazesam" parent="$default">
   <action id="ActivateFindToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
