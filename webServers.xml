@@ -10,6 +10,14 @@
       <webServer id="eb49ec6d-b55c-4d68-8877-67f0c9b8b7a5" name="aa.cs" url="http://aa.cs">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5a1584de-a14a-4b34-a6ee-25f1fd760c62" name="as.az4.cc" url="http://as.az4.cc">
+        <fileTransfer host="as.az4.cc" port="21" rootFolder="/as.az4.cc">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
