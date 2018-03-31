@@ -1,5 +1,6 @@
 <code_scheme name="SamStyle">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="RIGHT_MARGIN" value="110" />
   <option name="HTML_ATTRIBUTE_WRAP" value="4" />
   <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <option name="HTML_KEEP_BLANK_LINES" value="0" />
