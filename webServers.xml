@@ -10,6 +10,9 @@
       <webServer id="eb49ec6d-b55c-4d68-8877-67f0c9b8b7a5" name="aa.cs" url="http://aa.cs">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b98d3955-cb10-401a-a4d0-9f7a49d947e7" name="2.oc.cs" url="http://2.oc.cs">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
