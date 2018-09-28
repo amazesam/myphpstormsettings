@@ -13,9 +13,6 @@
       <webServer id="b98d3955-cb10-401a-a4d0-9f7a49d947e7" name="2.oc.cs" url="http://2.oc.cs">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="9078b95b-2dbc-4160-bc44-24679b364fa9" name="cn.oc.cs" url="http://cn.oc.cs">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
