@@ -13,6 +13,9 @@
       <webServer id="b98d3955-cb10-401a-a4d0-9f7a49d947e7" name="2.oc.cs" url="http://2.oc.cs">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6fd02e95-c927-4a1c-861e-4a3c36fc74d8" name="youthbeauty" url="http://zn.cs">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
