@@ -17,6 +17,9 @@
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl o" second-keystroke="m" />
   </action>
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="PublishGroup.SyncLocalVsRemote">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="d" />
   </action>
