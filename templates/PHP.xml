@@ -87,4 +87,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="cwdt" value="// $DATE$@$TIME$ $END$" description="comment with date" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="" defaultValue="date()" alwaysStopAt="true" />
+    <variable name="TIME" expression="" defaultValue="time()" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
