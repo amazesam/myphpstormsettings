@@ -94,4 +94,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="dev" value="if($_SESSION['customer_id'] = 133$DEVELOP_ID$ ){&#10;    //the account of developer default for youthbeauty.com's zencart is 133&#10;    var_dump($DEV_DATA$);&#10;    exit();&#10;}" description="Safe develop mode code" toReformat="false" toShortenFQNames="true">
+    <variable name="DEVELOP_ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEV_DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
