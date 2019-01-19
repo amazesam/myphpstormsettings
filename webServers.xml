@@ -10,9 +10,6 @@
       <webServer id="eb49ec6d-b55c-4d68-8877-67f0c9b8b7a5" name="aa.cs" url="http://aa.cs">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="6fd02e95-c927-4a1c-861e-4a3c36fc74d8" name="youthbeauty" url="http://zn.cs">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
       <webServer id="c5d5acfa-0f91-4a55-9dff-a1b1e04ff6ae" name="Youthbeauty_org" url="http://ybo.cs">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
