@@ -13,6 +13,9 @@
       <webServer id="c5d5acfa-0f91-4a55-9dff-a1b1e04ff6ae" name="Youthbeauty_org" url="http://ybo.cs">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e182d6b7-4059-400d-9904-7223f4c8bec0" name="wx01" url="http://wx.cs">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
