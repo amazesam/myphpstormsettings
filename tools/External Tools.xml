@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Cmder" description="命令行工具" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\toolkits\cmder\Cmder.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/toolkits/cmder" />
+    </exec>
+  </tool>
+</toolSet>

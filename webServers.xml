@@ -4,6 +4,14 @@
       <webServer id="40c8a594-165c-4f50-91dd-383fa124f0a7" name="tp6" url="http://a.zz">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6bcf3f57-e6c5-4d37-bc74-997568963dd4" name="samaxCentOS7PHP" url="http://192.168.2.192">
+        <fileTransfer host="192.168.2.192" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
